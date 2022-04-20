@@ -1,0 +1,21 @@
+.storybook-a {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+    height: 50px;
+    width: 162px;
+    text-decoration: none;
+}
+.storybook-a--primary {
+    color: black;
+    font-size: 20px;
+
+
+}
+
+.storybook-a--secondary {
+    color: black;
+}
+

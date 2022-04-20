@@ -17,3 +17,14 @@ Pour faire fonctionner le projet :
 2. Ensuite lancer storybook  
 
 >`npm run storybook`
+
+
+
+ #### // TODO :
+
+
+- crée le bouton avec la fleche
+- installer la police
+- faire le bon padding interne pour les boutons
+- faire la underline des titres
+- faire une verification tous ensemble

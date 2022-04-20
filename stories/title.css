@@ -1,0 +1,23 @@
+.storybook-title {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 120px;
+    font-weight: 400;
+    border: 0;
+    border-radius: 0;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+    text-decoration: underline;
+    text-underline-position: right;
+}
+
+.storybook-title--primary {
+    font-weight: bold;
+
+}
+
+.storybook-title--secondary {
+    font-size: 90px;
+    font-weight: bold;
+}
+
